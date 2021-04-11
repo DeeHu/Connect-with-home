@@ -1,0 +1,43 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "theme": "food",
+      "title": "Noodle chanllange",
+      "content": "The annual noodle challenge is back! The event will be held on May 20th, 2021.",
+      "like": false
+
+  },
+
+  {
+    "id": "2",
+    "theme": "food",
+    "title": "South Asian food expo",
+    "content": "The South Asian food expo is back! The event will be held on June 20th, 2021.",
+    "like": false
+  },
+
+    {
+      "id": "3",
+      "theme": "society",
+      "title": "3 street kittens find a noew home",
+      "content": "3 cute street kittens are adopted by a kind lady.",
+      "like": false
+
+  },
+
+  {
+    "id": "4",
+    "theme": "society",
+    "title": "New high-speed railway facilitates transportation in Hechi",
+    "content": "A new high-speed railway between Yunnan's Kunming and Fujian's Xiamen which will pass through Guangxi Zhuang autonomous region has entered the planning stage, officials from Liuzhou announced on March 26.",
+    "like": false   
+}
+],
+
+"weather": {
+  "temp": "21 "
+}
+  
+  
+}
